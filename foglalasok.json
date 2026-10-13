@@ -1,0 +1,222 @@
+[
+  {
+    "id": "F-1001",
+    "palyaId": 1,
+    "nev": "Kovács Péter",
+    "email": "kovacs.peter@pelda.hu",
+    "telefon": "+36 30 412 5587",
+    "datum": "2026-10-01",
+    "ora": "17:00",
+    "letszam": 4,
+    "osszeg": 8000
+  },
+  {
+    "id": "F-1002",
+    "palyaId": 3,
+    "nev": "Nagy Eszter",
+    "email": "nagy.eszter@pelda.hu",
+    "telefon": "+36 20 318 4402",
+    "datum": "2026-10-02",
+    "ora": "18:00",
+    "letszam": 4,
+    "osszeg": 11000
+  },
+  {
+    "id": "F-1003",
+    "palyaId": 4,
+    "nev": "Tóth Bence",
+    "email": "bence.toth@pelda.hu",
+    "telefon": "+36 70 255 9013",
+    "datum": "2026-10-03",
+    "ora": "10:00",
+    "letszam": 12,
+    "osszeg": 22000
+  },
+  {
+    "id": "F-1004",
+    "palyaId": 7,
+    "nev": "Szabó Dóra",
+    "email": "szabo.dora@pelda.hu",
+    "telefon": "+36 30 674 1190",
+    "datum": "2026-10-04",
+    "ora": "16:00",
+    "letszam": 6,
+    "osszeg": 10000
+  },
+  {
+    "id": "F-1005",
+    "palyaId": 5,
+    "nev": "Horváth Máté",
+    "email": "horvath.mate@pelda.hu",
+    "telefon": "+36 20 903 7741",
+    "datum": "2026-10-06",
+    "ora": "18:00",
+    "letszam": 10,
+    "osszeg": 23000
+  },
+  {
+    "id": "F-1006",
+    "palyaId": 2,
+    "nev": "Varga Lili",
+    "email": "varga.lili@pelda.hu",
+    "telefon": "+36 70 431 2268",
+    "datum": "2026-10-06",
+    "ora": "19:00",
+    "letszam": 2,
+    "osszeg": 9500
+  },
+  {
+    "id": "F-1007",
+    "palyaId": 1,
+    "nev": "Kiss Ádám",
+    "email": "kiss.adam@pelda.hu",
+    "telefon": "+36 30 118 6625",
+    "datum": "2026-10-07",
+    "ora": "16:00",
+    "letszam": 2,
+    "osszeg": 7000
+  },
+  {
+    "id": "F-1008",
+    "palyaId": 1,
+    "nev": "Molnár Réka",
+    "email": "molnar.reka@pelda.hu",
+    "telefon": "+36 20 577 3094",
+    "datum": "2026-10-07",
+    "ora": "18:00",
+    "letszam": 4,
+    "osszeg": 8000
+  },
+  {
+    "id": "F-1009",
+    "palyaId": 6,
+    "nev": "Farkas Dániel",
+    "email": "farkas.daniel@pelda.hu",
+    "telefon": "+36 70 642 8815",
+    "datum": "2026-10-08",
+    "ora": "17:00",
+    "letszam": 10,
+    "osszeg": 17000
+  },
+  {
+    "id": "F-1010",
+    "palyaId": 8,
+    "nev": "Balogh Anna",
+    "email": "balogh.anna@pelda.hu",
+    "telefon": "+36 30 289 4471",
+    "datum": "2026-10-08",
+    "ora": "08:00",
+    "letszam": 2,
+    "osszeg": 6000
+  },
+  {
+    "id": "F-1011",
+    "palyaId": 4,
+    "nev": "Papp Gergely",
+    "email": "papp.gergely@pelda.hu",
+    "telefon": "+36 20 744 1036",
+    "datum": "2026-10-10",
+    "ora": "09:00",
+    "letszam": 14,
+    "osszeg": 23000
+  },
+  {
+    "id": "F-1012",
+    "palyaId": 3,
+    "nev": "Takács Zsófia",
+    "email": "takacs.zsofia@pelda.hu",
+    "telefon": "+36 70 163 5582",
+    "datum": "2026-10-10",
+    "ora": "10:00",
+    "letszam": 4,
+    "osszeg": 11000
+  },
+  {
+    "id": "F-1013",
+    "palyaId": 4,
+    "nev": "Juhász Levente",
+    "email": "juhasz.levente@pelda.hu",
+    "telefon": "+36 30 836 2207",
+    "datum": "2026-10-10",
+    "ora": "11:00",
+    "letszam": 10,
+    "osszeg": 21000
+  },
+  {
+    "id": "F-1014",
+    "palyaId": 7,
+    "nev": "Lakatos Noémi",
+    "email": "lakatos.noemi@pelda.hu",
+    "telefon": "+36 20 491 6653",
+    "datum": "2026-10-10",
+    "ora": "14:00",
+    "letszam": 8,
+    "osszeg": 11000
+  },
+  {
+    "id": "F-1015",
+    "palyaId": 5,
+    "nev": "Mészáros Bálint",
+    "email": "meszaros.balint@pelda.hu",
+    "telefon": "+36 70 318 9940",
+    "datum": "2026-10-12",
+    "ora": "19:00",
+    "letszam": 12,
+    "osszeg": 24000
+  },
+  {
+    "id": "F-1016",
+    "palyaId": 2,
+    "nev": "Oláh Kitti",
+    "email": "olah.kitti@pelda.hu",
+    "telefon": "+36 30 557 0384",
+    "datum": "2026-10-14",
+    "ora": "08:00",
+    "letszam": 2,
+    "osszeg": 9500
+  },
+  {
+    "id": "F-1017",
+    "palyaId": 6,
+    "nev": "Simon Dávid",
+    "email": "simon.david@pelda.hu",
+    "telefon": "+36 20 862 4519",
+    "datum": "2026-10-15",
+    "ora": "20:00",
+    "letszam": 8,
+    "osszeg": 16000
+  },
+  {
+    "id": "F-1018",
+    "palyaId": 1,
+    "nev": "Rácz Viktória",
+    "email": "racz.viktoria@pelda.hu",
+    "telefon": "+36 70 209 7763",
+    "datum": "2026-10-21",
+    "ora": "15:00",
+    "letszam": 4,
+    "osszeg": 8000
+  },
+  {
+    "id": "F-1019",
+    "palyaId": 8,
+    "nev": "Fekete Márk",
+    "email": "fekete.mark@pelda.hu",
+    "telefon": "+36 30 745 3128",
+    "datum": "2026-11-04",
+    "ora": "18:00",
+    "letszam": 2,
+    "osszeg": 6000
+  },
+  {
+    "id": "F-1020",
+    "palyaId": 4,
+    "nev": "Szilágyi Hanna",
+    "email": "szilagyi.hanna@pelda.hu",
+    "telefon": "+36 20 394 6871",
+    "datum": "2026-11-12",
+    "ora": "19:00",
+    "letszam": 12,
+    "osszeg": 22000
+  }
+]

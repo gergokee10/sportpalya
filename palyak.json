@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nev": "Center Court",
+    "sportag": "Tenisz",
+    "oradij": 6000,
+    "maxLetszam": 4
+  },
+  {
+    "id": 2,
+    "nev": "Kristály Csarnok",
+    "sportag": "Tenisz",
+    "oradij": 8500,
+    "maxLetszam": 4
+  },
+  {
+    "id": 3,
+    "nev": "Padel Box",
+    "sportag": "Padel",
+    "oradij": 9000,
+    "maxLetszam": 4
+  },
+  {
+    "id": 4,
+    "nev": "Gólvonal Aréna",
+    "sportag": "Kispályás foci",
+    "oradij": 16000,
+    "maxLetszam": 14
+  },
+  {
+    "id": 5,
+    "nev": "Futsal Csarnok",
+    "sportag": "Futsal",
+    "oradij": 18000,
+    "maxLetszam": 12
+  },
+  {
+    "id": 6,
+    "nev": "Palánk Terem",
+    "sportag": "Kosárlabda",
+    "oradij": 12000,
+    "maxLetszam": 10
+  },
+  {
+    "id": 7,
+    "nev": "Homokpart",
+    "sportag": "Strandröplabda",
+    "oradij": 7000,
+    "maxLetszam": 8
+  },
+  {
+    "id": 8,
+    "nev": "Squash Box",
+    "sportag": "Squash",
+    "oradij": 5000,
+    "maxLetszam": 2
+  }
+]
