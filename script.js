@@ -18,11 +18,11 @@ const sikerDoboz = document.getElementById('siker');
 const felGomb = document.getElementById('felGomb');
 
 // json fájlok betöltése
-fetch('data/palyak.json')
+fetch('palyak.json')
   .then(valasz => valasz.json())
   .then(adat => {
     palyak = adat;
-    return fetch('data/foglalasok.json');
+    return fetch('foglalasok.json');
   })
   .then(valasz => valasz.json())
   .then(adat => {
